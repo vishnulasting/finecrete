@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/db-dumper": "^2.14",
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}

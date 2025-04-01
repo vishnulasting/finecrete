@@ -1,0 +1,544 @@
+[06-Dec-2019 11:53:00 UTC] PHP Notice:  Undefined property: DatabaseBackup::$load in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function database() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:16
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(115): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:03 UTC] PHP Notice:  Undefined property: DatabaseBackup::$load in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function database() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:16
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(115): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:10 UTC] PHP Notice:  Undefined property: DatabaseBackup::$load in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function database() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:16
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(115): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:38 UTC] PHP Notice:  Undefined property: DatabaseBackup::$load in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function database() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:16
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(115): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:40 UTC] PHP Notice:  Undefined property: DatabaseBackup::$load in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 11:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function database() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:16
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(115): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 16
+[06-Dec-2019 12:09:28 UTC] PHP Notice:  Undefined property: DatabaseBackup::$db in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function select() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(124): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:09:31 UTC] PHP Notice:  Undefined property: DatabaseBackup::$db in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function select() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(124): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:09:57 UTC] PHP Notice:  Undefined property: DatabaseBackup::$db in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:09:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function select() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(124): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:11:09 UTC] PHP Notice:  Undefined property: DatabaseBackup::$db in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function select() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(124): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:14:37 UTC] PHP Notice:  Undefined variable: dynamicdb in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 25
+[06-Dec-2019 12:14:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:25
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(120): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 25
+[06-Dec-2019 12:14:39 UTC] PHP Notice:  Undefined variable: dynamicdb in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 25
+[06-Dec-2019 12:14:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ao6gqm9lzt0t/public_html/cron/index.php:25
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(120): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 25
+[06-Dec-2019 12:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(127): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(127): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(125): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ao6gqm9lzt0t/public_html/cron/index.php:26
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(125): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 26
+[06-Dec-2019 12:37:01 UTC] PHP Notice:  Undefined variable: host in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:01 UTC] PHP Notice:  Undefined variable: username in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:01 UTC] PHP Notice:  Undefined variable: password in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ao6gqm9lzt0t'@'localhost' (using password: NO) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:45 UTC] PHP Notice:  Undefined variable: host in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:45 UTC] PHP Notice:  Undefined variable: username in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:45 UTC] PHP Notice:  Undefined variable: password in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ao6gqm9lzt0t'@'localhost' (using password: NO) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:49 UTC] PHP Notice:  Undefined variable: host in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:49 UTC] PHP Notice:  Undefined variable: username in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:49 UTC] PHP Notice:  Undefined variable: password in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ao6gqm9lzt0t'@'localhost' (using password: NO) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[06-Dec-2019 12:37:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:10 UTC] PHP Notice:  Undefined variable: host in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:10 UTC] PHP Notice:  Undefined variable: username in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:10 UTC] PHP Notice:  Undefined variable: password in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ao6gqm9lzt0t'@'localhost' (using password: NO) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:10 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:49 UTC] PHP Notice:  Undefined variable: host in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:49 UTC] PHP Notice:  Undefined variable: username in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:49 UTC] PHP Notice:  Undefined variable: password in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ao6gqm9lzt0t'@'localhost' (using password: NO) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:52 UTC] PHP Notice:  Undefined variable: host in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:52 UTC] PHP Notice:  Undefined variable: username in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:52 UTC] PHP Notice:  Undefined variable: password in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ao6gqm9lzt0t'@'localhost' (using password: NO) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:03:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 40
+[07-Dec-2019 05:05:33 UTC] PHP Notice:  Undefined variable: result in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:05:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 43
+[07-Dec-2019 05:05:33 UTC] PHP Notice:  Undefined variable: file_name in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 67
+[07-Dec-2019 05:05:33 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Spatie\DbDumper\Databases\MySql::dumpToFile() must be of the type string, null given, called in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 67 and defined in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php:176
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(67): Spatie\DbDumper\Databases\MySql->dumpToFile(NULL)
+#1 /home/ao6gqm9lzt0t/public_html/cron/index.php(30): DatabaseBackup->initMySQLDBBackup()
+#2 /home/ao6gqm9lzt0t/public_html/cron/index.php(129): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#3 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php on line 176
+[07-Dec-2019 05:06:29 UTC] PHP Notice:  Undefined variable: result in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 43
+[07-Dec-2019 05:06:29 UTC] PHP Notice:  Undefined variable: file_name in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 68
+[07-Dec-2019 05:06:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Spatie\DbDumper\Databases\MySql::dumpToFile() must be of the type string, null given, called in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 68 and defined in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php:176
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(68): Spatie\DbDumper\Databases\MySql->dumpToFile(NULL)
+#1 /home/ao6gqm9lzt0t/public_html/cron/index.php(30): DatabaseBackup->initMySQLDBBackup()
+#2 /home/ao6gqm9lzt0t/public_html/cron/index.php(130): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#3 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php on line 176
+[07-Dec-2019 05:06:34 UTC] PHP Notice:  Undefined variable: result in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:06:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:06:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 43
+[07-Dec-2019 05:06:34 UTC] PHP Notice:  Undefined variable: file_name in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 68
+[07-Dec-2019 05:06:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Spatie\DbDumper\Databases\MySql::dumpToFile() must be of the type string, null given, called in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 68 and defined in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php:176
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(68): Spatie\DbDumper\Databases\MySql->dumpToFile(NULL)
+#1 /home/ao6gqm9lzt0t/public_html/cron/index.php(30): DatabaseBackup->initMySQLDBBackup()
+#2 /home/ao6gqm9lzt0t/public_html/cron/index.php(130): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#3 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php on line 176
+[07-Dec-2019 05:07:14 UTC] PHP Notice:  Undefined variable: result in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:07:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 42
+[07-Dec-2019 05:07:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 43
+[07-Dec-2019 05:09:45 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 28
+[07-Dec-2019 05:09:47 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 28
+[07-Dec-2019 05:12:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch() in /home/ao6gqm9lzt0t/public_html/cron/index.php:27
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(134): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#1 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 27
+[07-Dec-2019 05:17:06 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Notice:  Array to string conversion in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Notice:  Array to string conversion in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Notice:  Array to string conversion in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Notice:  Array to string conversion in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Notice:  Array to string conversion in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Notice:  Array to string conversion in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:17:06 UTC] PHP Notice:  Array to string conversion in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 31
+[07-Dec-2019 05:20:30 UTC] PHP Parse error:  syntax error, unexpected '$host' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 127
+[07-Dec-2019 05:20:32 UTC] PHP Parse error:  syntax error, unexpected '$host' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 127
+[07-Dec-2019 05:20:57 UTC] PHP Parse error:  syntax error, unexpected '$host' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 127
+[07-Dec-2019 05:21:12 UTC] PHP Notice:  Undefined variable: file_name in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 73
+[07-Dec-2019 05:21:12 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Spatie\DbDumper\Databases\MySql::dumpToFile() must be of the type string, null given, called in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 73 and defined in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php:176
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(73): Spatie\DbDumper\Databases\MySql->dumpToFile(NULL)
+#1 /home/ao6gqm9lzt0t/public_html/cron/index.php(39): DatabaseBackup->initMySQLDBBackup(Array)
+#2 /home/ao6gqm9lzt0t/public_html/cron/index.php(135): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#3 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php on line 176
+[07-Dec-2019 05:22:03 UTC] PHP Notice:  Undefined index: company_db_name in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 45
+[07-Dec-2019 06:36:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/ao6gqm9lzt0t/public_html/cron/index.php:61
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/index.php(38): DatabaseBackup->initMySQLDBBackup(Array)
+#1 /home/ao6gqm9lzt0t/public_html/cron/index.php(146): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#2 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 61
+[07-Dec-2019 06:45:01 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 98
+[07-Dec-2019 06:45:01 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 128
+[07-Dec-2019 06:45:03 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 98
+[07-Dec-2019 06:45:03 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 128
+[07-Dec-2019 06:45:06 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 98
+[07-Dec-2019 06:45:06 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 128
+[07-Dec-2019 06:45:09 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 98
+[07-Dec-2019 06:45:09 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 128
+[07-Dec-2019 06:45:11 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 98
+[07-Dec-2019 06:45:11 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 128
+[07-Dec-2019 06:45:12 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 98
+[07-Dec-2019 06:45:13 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 128
+[07-Dec-2019 06:45:13 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 98
+[07-Dec-2019 06:45:13 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 128
+[07-Dec-2019 06:54:15 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Lastinglabs_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 06:54:16 UTC] PHP Warning:  unlink(database_backups/lerp_Lastinglabs_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 06:54:19 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 06:54:19 UTC] PHP Warning:  unlink(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 06:54:24 UTC] PHP Warning:  file_get_contents(database_backups/lerp_matrix_infologics_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 06:54:24 UTC] PHP Warning:  unlink(database_backups/lerp_matrix_infologics_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 06:54:25 UTC] PHP Warning:  file_get_contents(database_backups/lerp_lasting_erp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 06:54:25 UTC] PHP Warning:  unlink(database_backups/lerp_lasting_erp_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 06:54:27 UTC] PHP Warning:  file_get_contents(database_backups/lerp_ucode_solutions_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 06:54:27 UTC] PHP Warning:  unlink(database_backups/lerp_ucode_solutions_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 06:54:29 UTC] PHP Warning:  file_get_contents(database_backups/lerp_venus_supplier_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 06:54:29 UTC] PHP Warning:  unlink(database_backups/lerp_venus_supplier_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 06:54:30 UTC] PHP Warning:  file_get_contents(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 06:54:30 UTC] PHP Warning:  unlink(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:00:21 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Lastinglabs_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:00:21 UTC] PHP Warning:  unlink(database_backups/lerp_Lastinglabs_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:00:25 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:00:25 UTC] PHP Warning:  unlink(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:00:27 UTC] PHP Warning:  file_get_contents(database_backups/lerp_matrix_infologics_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:00:27 UTC] PHP Warning:  unlink(database_backups/lerp_matrix_infologics_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:00:29 UTC] PHP Warning:  file_get_contents(database_backups/lerp_lasting_erp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:00:29 UTC] PHP Warning:  unlink(database_backups/lerp_lasting_erp_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:00:32 UTC] PHP Warning:  file_get_contents(database_backups/lerp_ucode_solutions_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:00:32 UTC] PHP Warning:  unlink(database_backups/lerp_ucode_solutions_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:00:33 UTC] PHP Warning:  file_get_contents(database_backups/lerp_venus_supplier_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:00:33 UTC] PHP Warning:  unlink(database_backups/lerp_venus_supplier_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:00:35 UTC] PHP Warning:  file_get_contents(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:00:35 UTC] PHP Warning:  unlink(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 129
+[07-Dec-2019 07:15:41 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Lastinglabs_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:15:41 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Lastinglabs_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 101
+[07-Dec-2019 07:15:41 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Lastinglabs_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 102
+[07-Dec-2019 07:15:41 UTC] PHP Warning:  unlink(database_backups/lerp_Lastinglabs_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 134
+[07-Dec-2019 07:15:44 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:15:44 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 101
+[07-Dec-2019 07:15:44 UTC] PHP Warning:  file_get_contents(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 102
+[07-Dec-2019 07:15:44 UTC] PHP Warning:  unlink(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 134
+[07-Dec-2019 07:15:46 UTC] PHP Warning:  file_get_contents(database_backups/lerp_matrix_infologics_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:15:46 UTC] PHP Warning:  file_get_contents(database_backups/lerp_matrix_infologics_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 101
+[07-Dec-2019 07:15:46 UTC] PHP Warning:  file_get_contents(database_backups/lerp_matrix_infologics_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 102
+[07-Dec-2019 07:15:46 UTC] PHP Warning:  unlink(database_backups/lerp_matrix_infologics_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 134
+[07-Dec-2019 07:15:48 UTC] PHP Warning:  file_get_contents(database_backups/lerp_lasting_erp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:15:48 UTC] PHP Warning:  file_get_contents(database_backups/lerp_lasting_erp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 101
+[07-Dec-2019 07:15:48 UTC] PHP Warning:  file_get_contents(database_backups/lerp_lasting_erp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 102
+[07-Dec-2019 07:15:48 UTC] PHP Warning:  unlink(database_backups/lerp_lasting_erp_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 134
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  file_get_contents(database_backups/lerp_ucode_solutions_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  file_get_contents(database_backups/lerp_ucode_solutions_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 101
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  file_get_contents(database_backups/lerp_ucode_solutions_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 102
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  unlink(database_backups/lerp_ucode_solutions_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 134
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  file_get_contents(database_backups/lerp_venus_supplier_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  file_get_contents(database_backups/lerp_venus_supplier_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 101
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  file_get_contents(database_backups/lerp_venus_supplier_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 102
+[07-Dec-2019 07:15:50 UTC] PHP Warning:  unlink(database_backups/lerp_venus_supplier_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 134
+[07-Dec-2019 07:15:52 UTC] PHP Warning:  file_get_contents(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 99
+[07-Dec-2019 07:15:52 UTC] PHP Warning:  file_get_contents(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 101
+[07-Dec-2019 07:15:52 UTC] PHP Warning:  file_get_contents(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 102
+[07-Dec-2019 07:15:52 UTC] PHP Warning:  unlink(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 134
+[07-Dec-2019 08:10:38 UTC] PHP Warning:  filesize(): stat failed for database_backups/lerp_Lastinglabs_07_12_2019.sql in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 150
+[07-Dec-2019 08:10:38 UTC] PHP Warning:  fopen(database_backups/lerp_Lastinglabs_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 151
+[07-Dec-2019 08:10:38 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 152
+[07-Dec-2019 08:10:38 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 153
+[07-Dec-2019 08:10:38 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:10:41 UTC] PHP Warning:  filesize(): stat failed for database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 150
+[07-Dec-2019 08:10:41 UTC] PHP Warning:  fopen(database_backups/lerp_Azuka_Synthetics_llp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 151
+[07-Dec-2019 08:10:41 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 152
+[07-Dec-2019 08:10:41 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 153
+[07-Dec-2019 08:10:41 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:10:45 UTC] PHP Warning:  filesize(): stat failed for database_backups/lerp_matrix_infologics_07_12_2019.sql in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 150
+[07-Dec-2019 08:10:45 UTC] PHP Warning:  fopen(database_backups/lerp_matrix_infologics_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 151
+[07-Dec-2019 08:10:45 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 152
+[07-Dec-2019 08:10:45 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 153
+[07-Dec-2019 08:10:45 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:10:46 UTC] PHP Warning:  filesize(): stat failed for database_backups/lerp_lasting_erp_07_12_2019.sql in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 150
+[07-Dec-2019 08:10:46 UTC] PHP Warning:  fopen(database_backups/lerp_lasting_erp_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 151
+[07-Dec-2019 08:10:46 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 152
+[07-Dec-2019 08:10:46 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 153
+[07-Dec-2019 08:10:46 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:10:48 UTC] PHP Warning:  filesize(): stat failed for database_backups/lerp_ucode_solutions_07_12_2019.sql in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 150
+[07-Dec-2019 08:10:48 UTC] PHP Warning:  fopen(database_backups/lerp_ucode_solutions_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 151
+[07-Dec-2019 08:10:48 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 152
+[07-Dec-2019 08:10:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 153
+[07-Dec-2019 08:10:48 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:10:51 UTC] PHP Warning:  filesize(): stat failed for database_backups/lerp_venus_supplier_07_12_2019.sql in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 150
+[07-Dec-2019 08:10:51 UTC] PHP Warning:  fopen(database_backups/lerp_venus_supplier_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 151
+[07-Dec-2019 08:10:51 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 152
+[07-Dec-2019 08:10:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 153
+[07-Dec-2019 08:10:51 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:10:52 UTC] PHP Warning:  filesize(): stat failed for database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 150
+[07-Dec-2019 08:10:52 UTC] PHP Warning:  fopen(database_backups/lerp_kirti_pvt_ltd_07_12_2019.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 151
+[07-Dec-2019 08:10:52 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 152
+[07-Dec-2019 08:10:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 153
+[07-Dec-2019 08:10:52 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:13:57 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:13:59 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:14:03 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:14:03 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:14:04 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:14:08 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[07-Dec-2019 08:14:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 173
+[10-Dec-2019 06:11:38 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_2019_12_10.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 88
+[10-Dec-2019 06:11:38 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2019_12_10.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 107
+[10-Dec-2019 06:34:58 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_2019_12_10.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 86
+[10-Dec-2019 06:34:58 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2019_12_10.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 105
+[10-Dec-2019 06:56:44 UTC] PHP Warning:  file_get_contents(database_backups/azuka_erp_new_2019_12_10.sql): failed to open stream: No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 86
+[10-Dec-2019 06:56:44 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2019_12_10.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 105
+[10-Dec-2019 07:09:00 UTC] PHP Warning:  Illegal string offset 'company_db_name' in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 66
+[10-Dec-2019 07:09:00 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 66
+[10-Dec-2019 07:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre() in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php:64
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php(32): DatabaseBackup->initMySQLDBBackup(Array)
+#1 /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php(136): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#2 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 64
+[10-Dec-2019 07:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre() in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php:64
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php(32): DatabaseBackup->initMySQLDBBackup(Array)
+#1 /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php(136): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#2 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 64
+[10-Dec-2019 07:11:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pre() in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php:64
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php(32): DatabaseBackup->initMySQLDBBackup(Array)
+#1 /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php(136): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#2 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 64
+[15-Dec-2019 07:01:55 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2019_12_15.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[22-Dec-2019 07:01:50 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2019_12_22.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 129
+[29-Dec-2019 07:01:43 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2019_12_29.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 129
+[05-Jan-2020 07:01:48 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_01_05.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[12-Jan-2020 07:01:47 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_01_12.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/daily_cron.php on line 129
+[19-Jan-2020 07:02:02 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_01_19.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[26-Jan-2020 07:02:15 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_01_26.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[02-Feb-2020 07:02:01 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_02_02.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[09-Feb-2020 07:02:11 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_02_09.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[16-Feb-2020 07:02:08 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_02_16.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[23-Feb-2020 07:02:08 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_02_23.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[01-Mar-2020 07:02:24 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_03_01.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[08-Mar-2020 07:02:19 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_03_08.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[15-Mar-2020 07:01:58 UTC] PHP Fatal error:  Uncaught Spatie\DbDumper\Exceptions\DumpFailed: The dumpfile could not be created in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Exceptions/DumpFailed.php:25
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/DbDumper.php(250): Spatie\DbDumper\Exceptions\DumpFailed::dumpfileWasNotCreated()
+#1 /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php(190): Spatie\DbDumper\DbDumper->checkIfDumpWasSuccessFul(Object(Symfony\Component\Process\Process), 'database_backup...')
+#2 /home/ao6gqm9lzt0t/public_html/cron/index.php(76): Spatie\DbDumper\Databases\MySql->dumpToFile('database_backup...')
+#3 /home/ao6gqm9lzt0t/public_html/cron/index.php(45): DatabaseBackup->initMySQLDBBackup(Array)
+#4 /home/ao6gqm9lzt0t/public_html/cron/index.php(138): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#5 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Exceptions/DumpFailed.php on line 25
+[22-Mar-2020 07:01:58 UTC] PHP Fatal error:  Uncaught Spatie\DbDumper\Exceptions\DumpFailed: The dumpfile could not be created in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Exceptions/DumpFailed.php:25
+Stack trace:
+#0 /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/DbDumper.php(250): Spatie\DbDumper\Exceptions\DumpFailed::dumpfileWasNotCreated()
+#1 /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Databases/MySql.php(190): Spatie\DbDumper\DbDumper->checkIfDumpWasSuccessFul(Object(Symfony\Component\Process\Process), 'database_backup...')
+#2 /home/ao6gqm9lzt0t/public_html/cron/index.php(76): Spatie\DbDumper\Databases\MySql->dumpToFile('database_backup...')
+#3 /home/ao6gqm9lzt0t/public_html/cron/index.php(45): DatabaseBackup->initMySQLDBBackup(Array)
+#4 /home/ao6gqm9lzt0t/public_html/cron/index.php(138): DatabaseBackup->__construct('localhost', 'ERP_root', '#Lh{a@I~VQ6I', 'azuka_erp_new', 'rachna@lastinge...')
+#5 {main}
+  thrown in /home/ao6gqm9lzt0t/public_html/cron/vendor/spatie/db-dumper/src/Exceptions/DumpFailed.php on line 25
+[29-Mar-2020 07:02:34 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_03_29.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[05-Apr-2020 07:02:35 UTC] PHP Warning:  unlink(database_backups/azuka_erp_new_2020_04_05.sql): No such file or directory in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 130
+[26-Apr-2020 07:00:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[03-May-2020 07:00:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[10-May-2020 07:00:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[17-May-2020 07:00:41 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[24-May-2020 07:00:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[31-May-2020 07:00:40 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[07-Jun-2020 07:00:42 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[14-Jun-2020 07:00:38 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[21-Jun-2020 07:00:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[28-Jun-2020 07:00:39 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[05-Jul-2020 07:00:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[12-Jul-2020 07:00:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[19-Jul-2020 07:00:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[26-Jul-2020 07:00:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[02-Aug-2020 07:00:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[09-Aug-2020 07:00:47 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[16-Aug-2020 07:00:44 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[23-Aug-2020 07:00:44 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[30-Aug-2020 07:00:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[06-Sep-2020 07:01:32 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[13-Sep-2020 07:01:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ao6gqm9lzt0t/public_html/cron/index.php on line 69
+[17-Sep-2020 00:00:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[18-Sep-2020 00:00:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[19-Sep-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[20-Sep-2020 00:00:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[20-Sep-2020 00:00:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[21-Sep-2020 00:00:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[22-Sep-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[23-Sep-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[24-Sep-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[25-Sep-2020 00:00:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[26-Sep-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[27-Sep-2020 00:00:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[27-Sep-2020 00:00:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[28-Sep-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[29-Sep-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[30-Sep-2020 00:00:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[01-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[02-Oct-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[03-Oct-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[04-Oct-2020 00:00:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[04-Oct-2020 00:00:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[05-Oct-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[06-Oct-2020 00:00:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[07-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[08-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[09-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[10-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[11-Oct-2020 00:00:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[11-Oct-2020 00:00:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[12-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[13-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[14-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[15-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[16-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[17-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[18-Oct-2020 00:00:11 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[18-Oct-2020 00:00:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[19-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[20-Oct-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[21-Oct-2020 00:00:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[22-Oct-2020 00:00:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[23-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[24-Oct-2020 00:00:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[25-Oct-2020 00:00:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[25-Oct-2020 00:00:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[26-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[27-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[28-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[29-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[30-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[31-Oct-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[01-Nov-2020 00:00:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[01-Nov-2020 00:00:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[02-Nov-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[03-Nov-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[04-Nov-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[05-Nov-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[06-Nov-2020 00:00:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[07-Nov-2020 00:00:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[08-Nov-2020 00:00:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[08-Nov-2020 00:00:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[09-Nov-2020 00:00:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[10-Nov-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[11-Nov-2020 00:00:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[12-Nov-2020 00:00:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[13-Nov-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[14-Nov-2020 18:30:07 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[14-Nov-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[15-Nov-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[16-Nov-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[17-Nov-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[18-Nov-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[19-Nov-2020 18:30:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[20-Nov-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[21-Nov-2020 18:30:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[21-Nov-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[22-Nov-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[23-Nov-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[24-Nov-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[25-Nov-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[26-Nov-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[27-Nov-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[28-Nov-2020 18:30:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[28-Nov-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[29-Nov-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[30-Nov-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[01-Dec-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[02-Dec-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[03-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[04-Dec-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[05-Dec-2020 18:30:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[05-Dec-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[06-Dec-2020 18:30:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[07-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[08-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[09-Dec-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[10-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[11-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[12-Dec-2020 18:30:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[12-Dec-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[13-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[14-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[15-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[16-Dec-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[17-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[18-Dec-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[19-Dec-2020 18:30:10 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[19-Dec-2020 18:30:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[20-Dec-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[21-Dec-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[22-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[23-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[24-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[25-Dec-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[26-Dec-2020 18:30:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[26-Dec-2020 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[27-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[28-Dec-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[29-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[30-Dec-2020 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[31-Dec-2020 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[01-Jan-2021 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[02-Jan-2021 18:30:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[02-Jan-2021 18:30:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[03-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[04-Jan-2021 18:30:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[05-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[06-Jan-2021 18:30:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[07-Jan-2021 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[08-Jan-2021 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[09-Jan-2021 18:30:10 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[09-Jan-2021 18:30:21 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[10-Jan-2021 18:30:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[11-Jan-2021 18:30:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[12-Jan-2021 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[13-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[14-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[15-Jan-2021 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[16-Jan-2021 18:30:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[16-Jan-2021 18:30:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[17-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[18-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[19-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[20-Jan-2021 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[21-Jan-2021 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[22-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[23-Jan-2021 18:30:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[23-Jan-2021 18:30:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[24-Jan-2021 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[25-Jan-2021 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[26-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[27-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[28-Jan-2021 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[29-Jan-2021 18:30:16 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[30-Jan-2021 18:30:09 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/index.php on line 69
+[30-Jan-2021 18:30:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[31-Jan-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[01-Feb-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[02-Feb-2021 18:30:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[03-Feb-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
+[04-Feb-2021 18:30:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/busybanda/public_html/cron/daily_cron.php on line 68
